@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAheXohMLIo5AaiFQ7xeHSW-lqiN0RYvpI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91474120033</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.whiteTrip</string>
+	<key>PROJECT_ID</key>
+	<string>camel-bolt-ajmal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>camel-bolt-ajmal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91474120033:ios:f57e302eef3a098899c920</string>
+</dict>
+</plist>

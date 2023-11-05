@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91474120033",
+    "project_id": "camel-bolt-ajmal",
+    "storage_bucket": "camel-bolt-ajmal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91474120033:android:e1378ea11471f24b99c920",
+        "android_client_info": {
+          "package_name": "com.example.white_trip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8fffcU8y2Rl52AHsXW6siW84JLGWtZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

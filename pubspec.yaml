@@ -1,0 +1,37 @@
+name: camel_bolt
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  fl_country_code_picker: ^0.1.6+1
+  pinput: ^3.0.1
+  firebase_core: ^2.21.0
+  firebase_auth: ^4.12.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/img/
+     - assets/icons/
